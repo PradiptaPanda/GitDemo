@@ -18,6 +18,8 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+	System.out.println("java project1")
+	System.out.println("java project2")
     }
 
     /**
